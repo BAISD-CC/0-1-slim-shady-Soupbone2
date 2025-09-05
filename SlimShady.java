@@ -1,6 +1,6 @@
 public class SlimShady {
     public static void main(String[] args) {
-        // String name = "Your Name Here";
+         String name = "Carsen";
 
         System.out.println("Hi! My name is... what?");
         System.out.println("My name is... who?");
